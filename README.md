@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samProg02
 - 👀 I’m interested in ...Hardware automation
-- 🌱 I’m currently learning ... Mobile app development
-- 💞️ I’m looking to collaborate on ...Mobile app projects
+- 🌱 I’m currently learning ... Frontend development
+- 💞️ I’m looking to collaborate on ...Web Projects
 - 📫 How to reach me ... @samsonolalekan2@gmail.com
 
 <!---
