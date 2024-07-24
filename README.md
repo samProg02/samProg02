@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samProg02
 - 👀 I’m interested in ...Hardware automation
-- 🌱 I’m currently learning ... Frontend development
+- 🌱 I’m currently learning ... Backend development
 - 💞️ I’m looking to collaborate on ...Web Projects
 - 📫 How to reach me ... @bolarindesamson42@gmail.com
 
